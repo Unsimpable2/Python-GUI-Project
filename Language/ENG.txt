@@ -1,0 +1,56 @@
+Workout Body Part
+Back
+Chest
+Shoulders
+Biceps
+Triceps
+Legs
+Abs
+Stretch Body Part
+Arms
+Others
+Previous Photo
+Next Photo
+Language
+Important information
+Exit
+BMI and Body Fat Procent Calculator
+Man
+Woman
+Daily Caloric Requirement Calculator
+Choose gender:
+M
+F
+Fill the Data:
+Age: 
+Height(cm): 
+Weight(kg): 
+Level of Physical Activity:
+Zero Physical Activity
+No Physical Activity Whatsoever/Sitting Work
+Very Low Physical Activity
+Rare Physical Activity, From Time to Time
+Low Physical Activity
+Physical Activity Once a Week
+Mid Physical Activity
+Physical Activity Two/Three a Week
+High Physical Activity
+Physical Activity Four/Five a Week
+Very High Physical Activity
+Physical Work With Regular Trainings
+Set Your Goal:
+Weight Reduction
+Weight Maintenance
+Weight Gain
+Calculate
+Your daily caloric requirement is equal to kcal.
+ Only numbers are\n valible for calculations.
+Fill the Data: 
+Neck(cm): 
+Waist(cm): 
+Hip(cm): 
+ Your BMI is equal to: 
+ Your BFP is equal to: %.
+ Check Imortant Information for more info.
+ Only numbers are valible for BMI
+ Only numbers are valible for BFP

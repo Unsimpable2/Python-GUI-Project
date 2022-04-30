@@ -1,0 +1,58 @@
+Partia Do Treningu
+Plecy
+Klata
+Barki
+Biceps
+Triceps
+Nogi
+Brzuch
+Partia do Rozciągania
+Ręce
+Inne
+Poprzednie Zdjęcie
+Następne Zdjęcie
+Język
+Ważne Informacje
+Wyjście
+Kalkulator BMI i % Tkanki Tłuszczowej w Ciele
+Mężczyzna
+Kobieta
+Kalkulator Dziennego Zapotrzebowania Kalorycznego
+Wybierz Płeć:
+M
+K
+Uzupełnij Dane:
+Wiek 
+Wzrost 
+Waga 
+Poziom Aktywności Fizycznej:
+Zerowa Aktywności Fizyczna
+Brak Wysiłku Fizycznego/Praca Siedząca
+Bardzo Niska Aktywność Fizyczna
+Aktywność Fizyczna od Czasu do Czasu
+Niska Aktwyność Fizyczna
+Aktywność Fizyczna Raz w Tygodniu
+Średnia Aktywność Fizyczna
+Aktywność Fizyczna Dwa/Trzy Razy w Tygodniu
+Wysoka Aktywność Fizyczna
+Aktywność Fizyczna Cztery/Pieć Razy w Tygodniu
+Bardzo Wysoka Aktywność Fizyczna
+Fizyczna Praca z Regularnymi Treningami
+Twój Cel:
+Utrata Wagi
+Zachowanie Wagi
+Przybranie Wagi
+Oblicz
+Twoje Dzienne Zapotrzebowanie Kaloryczne Jest Równe:
+kcal.
+Podaj Same Liczby do Obliczeń
+Szyja 
+Pas 
+Biodra 
+Twoje BMI Jest Równe 
+Twoje BFP Jest Równe 
+%
+Sprawdź Ważne Informacje po więcej.
+(cm):
+(kg):
+Podaj Same Liczby do Obliczenia
